@@ -40,9 +40,8 @@ public class aulaAtividades{
                 JOptionPane.showMessageDialog(null, "Aluno não encontrado");
             }
         }
-    }
+    }    
     
-    aaaaaaaaaaaaaa
     JOptionPane.showMessageDialog(null, "Aluno com maior nota: " + alunoMaiorNota + " Nota: " + maiorNota);
         //Dado um nome de aluno, imprima sua nota (o aluno pode não estar na tabela)
         alunoRecebido = JOptionPane.showInputDialog("Nome do aluno que deseja ser pesquisado: ");
